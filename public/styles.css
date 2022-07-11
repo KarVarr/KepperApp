@@ -39,12 +39,14 @@ footer p {
     color: #ccc;
 }
 
+
 .note {
-    background: #fff;
+    background: rgb(255, 255, 255);
     border-radius: 7px;
     box-shadow: 0 2px 5px #ccc;
     padding: 10px;
     width: 240px;
     margin: 16px;
     float: left;
+    
 }
